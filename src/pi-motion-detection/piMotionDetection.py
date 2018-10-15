@@ -29,7 +29,7 @@ client = None
 # check to see if the Dropbox should be used
 if conf["use_dropbox"]:
 	# connect to dropbox and start the session authorization process
-	client = dropbox.Dropbox(conf["dropbox_access_token"])
+	lient = dropbox.Dropbox(conf["dropbox_access_token"])
 	print("[SUCCESS] dropbox account linked")
 
 # initialize the camera and grab a reference to the raw camera capture
