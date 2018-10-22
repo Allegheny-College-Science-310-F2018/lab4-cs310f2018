@@ -13,7 +13,7 @@ Guide](https://guides.github.com/features/mastering-markdown/). Remember, you
 can preview the contents of a committed Markdown file by clicking on the name
 of the file in your GitHub repository.
 
-The second part of the assignment invites your team to develop a motion detection system with the ability to recognize human body/faces. You will utilize one of thepre-trained supervised learning algorithms available in OpenCV.
+The second part of the assignment invites your team to develop a motion detection system with the ability to recognize human body/faces. You will utilize one of the pre-trained supervised learning algorithms available in OpenCV.
 
 Available for download under releases,
 the carefully formatted assignment sheet for this part of the project provides more details
@@ -49,7 +49,7 @@ This second command can be run whenever the course instructor needs to provide
 you with new source code for this assignment. However, please note that, if you
 have edited the files that the course instructor updated, running the previous
 command may lead to Git merge conflicts. If this happens, you may need to
-manually resolve them with the help of the instructor. 
+manually resolve them with the help of the instructor.
 
 ## Assistance
 
